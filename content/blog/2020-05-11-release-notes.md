@@ -1,7 +1,7 @@
 ---
 title: '2020-05-11 Release Notes: Tidying Up'
 date: '2020-05-11T10:19:38-03:00'
-author: Nolan Phillips
+author: vvk
 ---
 Today marks the second week of the TinaCMS core team's 2 week cool down.
 
